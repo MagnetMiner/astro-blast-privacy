@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - Astro Blast</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
+        h1 { color: #2c3e50; }
+        h2 { color: #34495e; margin-top: 30px; border-bottom: 1px solid #eee; padding-bottom: 5px; }
+        p { margin-bottom: 15px; }
+        ul { margin-bottom: 15px; }
+        .contact { background: #f8f9fa; padding: 15px; border-radius: 5px; border-left: 5px solid #007bff; margin-top: 20px; }
+    </style>
+</head>
+<body>
+
+    <h1>Política de Privacidad – Astro Blast - Arcade Edition</h1>
+    <p><strong>Última actualización:</strong> 29 de julio de 2026</p>
+
+    <p>Esta Política de Privacidad describe cómo se recopila, utiliza y protege la información de los usuarios de la aplicación <strong>Astro Blast - Arcade Edition</strong> (en adelante, “la App” o “el Juego”).</p>
+    <p>Al descargar, instalar o utilizar <em>Astro Blast - Arcade Edition</em>, aceptas las prácticas descritas en esta política.</p>
+
+    <h2>1. Responsable del tratamiento</h2>
+    <p>El responsable de los datos es el desarrollador de <em>Astro Blast - Arcade Edition</em>.</p>
+    <p>Para cualquier consulta relacionada con privacidad, puedes contactar a:</p>
+    <p><strong>Email:</strong> <a href="mailto:cristian.correa.aguilera@gmail.com">cristian.correa.aguilera@gmail.com</a></p>
+
+    <h2>2. Datos que recopilamos</h2>
+    <p><em>Astro Blast - Arcade Edition</em> es un juego diseñado para funcionar principalmente en el dispositivo del usuario (<em>client-side</em>). Según el uso que hagas de la App, podemos recopilar la siguiente información:</p>
+    
+    <h3>Datos que NO recopilamos de forma automática:</h3>
+    <ul>
+        <li>Nombre real, correo electrónico, número de teléfono o dirección postal (salvo que tú los proporciones voluntariamente para soporte técnico).</li>
+        <li>Ubicación precisa del dispositivo.</li>
+        <li>Contactos, fotos, micrófono o cámara.</li>
+        <li>Información financiera o de tarjetas de crédito (las transacciones se procesan directamente a través de Google Play).</li>
+    </ul>
+
+    <h3>Datos que sí podemos recopilar:</h3>
+    <ul>
+        <li><strong>Datos de progreso y puntuación:</strong> Puntuaciones, etapas alcanzadas, vidas, power-ups y estadísticas de juego. Estos se almacenan localmente en tu dispositivo. Si activas la función de ranking en línea, estos datos se envían a nuestros servidores.</li>
+        <li><strong>Identificadores del dispositivo:</strong> Identificadores anónimos o seudónimos (como el Advertising ID de Google) se utilizan exclusivamente para rankings, detección de trampas (anti-cheat) y análisis de rendimiento. No vinculamos estos IDs a tu identidad personal.</li>
+        <li><strong>Datos de uso y rendimiento:</strong> Tiempo de juego, niveles jugados, informes de errores técnicos (crash logs) y estadísticas de rendimiento de la App.</li>
+        <li><strong>Datos de compras (si aplican):</strong> Información de transacción procesada exclusivamente por Google Play. Nosotros no almacenamos datos de pago ni tarjetas de crédito.</li>
+    </ul>
+
+    <h2>3. Cómo utilizamos los datos</h2>
+    <p>Utilizamos la información recopilada únicamente para:</p>
+    <ul>
+        <li>Permitir el funcionamiento correcto del juego y guardar tu progreso.</li>
+        <li>Habilitar y mantener tablas de clasificación (rankings) justas.</li>
+        <li>Mejorar el equilibrio del juego, detectar trampas y corregir errores técnicos.</li>
+        <li>Procesar compras dentro de la aplicación (a través de Google Play).</li>
+        <li>Cumplir con obligaciones legales aplicables.</li>
+        <li>Enviar notificaciones relacionadas con el juego (solo si las has autorizado explícitamente).</li>
+    </ul>
+    <p><strong>No utilizamos tus datos para publicidad personalizada dirigida ni para crear perfiles de usuarios.</strong></p>
+
+    <h2>4. Base legal</h2>
+    <p>Tratamos los datos sobre la base de:</p>
+    <ul>
+        <li>Tu <strong>consentimiento</strong> (cuando es necesario para funciones opcionales).</li>
+        <li>La <strong>ejecución del contrato</strong> (prestarte el servicio del juego tal como se describe).</li>
+        <li>Nuestro <strong>interés legítimo</strong> (mejorar la estabilidad del juego, seguridad y prevención de fraude).</li>
+        <li><strong>Cumplimiento de obligaciones legales</strong>.</li>
+    </ul>
+
+    <h2>5. Compartición de datos</h2>
+    <p><strong>No vendemos tus datos personales.</strong></p>
+    <p>Podemos compartir información limitada y anónima con:</p>
+    <ul>
+        <li><strong>Proveedores de servicios técnicos:</strong> Hospedaje, análisis de rendimiento y sistemas de protección contra trampas (solo los datos estrictamente necesarios para su función).</li>
+        <li><strong>Google Play:</strong> Para la distribución de la App, gestión de compras y servicios de Play Games Services (si están activos).</li>
+        <li><strong>Autoridades competentes:</strong> Cuando la ley lo exija o para investigar actividades ilegales.</li>
+    </ul>
+    <p>No compartimos datos personales con terceros con fines publicitarios o de marketing.</p>
+
+    <h2>6. Almacenamiento y seguridad</h2>
+    <p>Los datos se almacenan de forma segura. Aplicamos medidas técnicas y organizativas razonables para proteger la información contra acceso no autorizado o pérdida.</p>
+    <ul>
+        <li>Los datos de progreso local permanecen en tu dispositivo.</li>
+        <li>Los datos de ranking en línea se conservan mientras sea necesario para el funcionamiento del servicio o hasta que solicites su eliminación.</li>
+    </ul>
+
+    <h2>7. Privacidad de menores</h2>
+    <p><em>Astro Blast - Arcade Edition</em> es un juego para todas las edades. Sin embargo, <strong>no recopilamos conscientemente información personal identificable de menores de 13 años</strong> sin el consentimiento verificable de un padre o tutor.</p>
+    <p>Si eres padre/madre o tutor y crees que un menor nos ha proporcionado datos personales directamente, contáctanos inmediatamente para su eliminación.</p>
+
+    <h2>8. Tus derechos</h2>
+    <p>Según la legislación aplicable (incluyendo el GDPR si resides en el Espacio Económico Europeo), puedes:</p>
+    <ul>
+        <li>Acceder a tus datos.</li>
+        <li>Rectificar datos inexactos.</li>
+        <li>Solicitar la eliminación de tus datos.</li>
+        <li>Limitar u oponerte al tratamiento.</li>
+        <li>Solicitar la portabilidad de los datos.</li>
+        <li>Retirar tu consentimiento en cualquier momento.</li>
+    </ul>
+    <p>Para ejercer estos derechos, escribe a <a href="mailto:cristian.correa.aguilera@gmail.com">cristian.correa.aguilera@gmail.com</a>.</p>
+
+    <h2>9. Servicios de terceros</h2>
+    <p>La App puede utilizar servicios de terceros (como Google Play Services, herramientas de análisis de errores, etc.). Estos servicios tienen sus propias políticas de privacidad y prácticas de datos. Te recomendamos revisarlas.</p>
+
+    <h2>10. Cambios en esta política</h2>
+    <p>Podemos actualizar esta Política de Privacidad de vez en cuando. La versión más reciente estará siempre disponible en la página de la aplicación en Google Play. Te recomendamos revisarla periódicamente. Las actualizaciones entrarán en vigor inmediatamente al publicarse.</p>
+
+    <h2>11. Contacto</h2>
+    <p>Si tienes preguntas sobre esta Política de Privacidad o deseas ejercer tus derechos, puedes contactarnos en:</p>
+    <div class="contact">
+        <p><strong>Email:</strong> cristian.correa.aguilera@gmail.com</p>
+        <p><strong>Desarrollador:</strong> Cristian Correa</p>
+    </div>
+
+</body>
+</html>
